@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["temp.dat","temp.out"],"longSearchIndex":["",""],"info":[["temp.dat","","chapter1/temp_dat.html","","<p>100\n"],["temp.out","","chapter1/temp_out.html","","<p>212\n"]]}}
